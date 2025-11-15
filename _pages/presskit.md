@@ -44,7 +44,19 @@ App Website: https://notes2reminders.draftroomstudios.com
 [Download App Icon](/assets/appicon.png)
 
 **Screenshots:**
-Available upon request - contact support@draftroomstudios.com
+
+All screenshots are available for download and use in reviews and press coverage:
+
+1. [From Notes](/assets/press-screenshots/01-from-notes.jpeg) - Apple Notes checklist before conversion
+2. [To Reminders](/assets/press-screenshots/02-to-reminders.jpeg) - Same checklist in Reminders app
+3. [Automatic Importing](/assets/press-screenshots/03-automatic-importing.jpeg) - App welcome screen
+4. [iOS Share Sheet](/assets/press-screenshots/04-sharesheet.jpeg) - Native share sheet integration
+5. [Smart Detection](/assets/press-screenshots/05-smart-detection.jpeg) - Automatic item detection display
+6. [Create List](/assets/press-screenshots/06-create-list.jpeg) - List creation dialog
+
+[Download All Screenshots as ZIP](#) (Coming Soon)
+
+For custom screenshots or specific use cases, contact: support@draftroomstudios.com
 
 ### Press Release
 
