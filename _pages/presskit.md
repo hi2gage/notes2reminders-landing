@@ -54,9 +54,9 @@ Available upon request - contact support@draftroomstudios.com
 
 *Free iOS app brings seamless checklist conversion to the Apple ecosystem*
 
-**[Your City], November 2025** - DraftRoom Studios today announced the release of Notes to Reminders, a free iOS app that makes it effortless to convert Apple Notes checklists into actionable Reminders. With a focus on privacy and simplicity, the app integrates directly with iOS's native share sheet to provide instant checklist conversion.
+**November 2025** - DraftRoom Studios today announced the release of Notes to Reminders, a free iOS app that makes it effortless to convert Apple Notes checklists into actionable Reminders. With a focus on privacy and simplicity, the app integrates directly with iOS's native share sheet to provide instant checklist conversion.
 
-"We noticed that many people use Apple Notes for quick to-do lists, but then want those tasks in Reminders where they can set due dates, locations, and receive notifications," said [Your Name], creator of Notes to Reminders. "Our app bridges that gap seamlessly while maintaining complete privacy - everything happens on your device."
+Notes to Reminders bridges the gap between Apple Notes and Reminders, allowing users to quickly convert their to-do lists while maintaining complete privacy - everything happens on the device.
 
 **Key features include:**
 
